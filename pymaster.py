@@ -15,7 +15,7 @@ from protocol import MasterProtocol
 #import ipfilter
 
 LOG_FILENAME = 'pymaster.log'
-MAX_SERVERS_FOR_IP = 14
+MAX_SERVERS_FOR_IP = 1000
 CHALLENGE_SEND_PERIOD = 10
 
 def log(msg):
